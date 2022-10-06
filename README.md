@@ -8,7 +8,7 @@ O projeto **C6 Bank** está sendo desenvolvido durante o curso da **FIAP 200** e
 - **HTML5**
 - **CSS3**
 - **JavaScript**
-- **[Bootstrap 4](https://getbootstrap.com/)**
+- **[Bootstrap](https://getbootstrap.com/)**
 - **[Sass](https://sass-lang.com/)**
 - **Node**
 
